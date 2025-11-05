@@ -1,4 +1,4 @@
-# NBA Team Payroll vs. Wins Interactive Dashboard
+# NBA Predictive Analysis Dashboard
 
 A comprehensive interactive dashboard analyzing the relationship between NBA team payrolls and wins across multiple seasons (2014-2025).
 
